@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/bibhukrupa01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0713-subarray-product-less-than-k](https://github.com/bibhukrupa01/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 ## Binary Search
 |  |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/bibhukrupa01/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/bibhukrupa01/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/bibhukrupa01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
