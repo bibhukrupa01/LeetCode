@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/bibhukrupa01/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0073-set-matrix-zeroes](https://github.com/bibhukrupa01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/bibhukrupa01/LeetCode/tree/master/0075-sort-colors) |
 | [0713-subarray-product-less-than-k](https://github.com/bibhukrupa01/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/bibhukrupa01/LeetCode/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/bibhukrupa01/LeetCode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/bibhukrupa01/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
