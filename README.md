@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bibhukrupa01/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0520-detect-capital](https://github.com/bibhukrupa01/LeetCode/tree/master/0520-detect-capital) |
 ## Trie
 |  |
 | ------- |
