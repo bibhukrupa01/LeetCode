@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bibhukrupa01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/bibhukrupa01/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/bibhukrupa01/LeetCode/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bibhukrupa01/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/bibhukrupa01/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/bibhukrupa01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/bibhukrupa01/LeetCode/tree/master/1051-height-checker) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/bibhukrupa01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/bibhukrupa01/LeetCode/tree/master/0169-majority-element) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bibhukrupa01/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1122-relative-sort-array](https://github.com/bibhukrupa01/LeetCode/tree/master/1122-relative-sort-array) |
 ## Matrix
 |  |
