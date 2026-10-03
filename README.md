@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/bibhukrupa01/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/bibhukrupa01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/bibhukrupa01/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/bibhukrupa01/LeetCode/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bibhukrupa01/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/bibhukrupa01/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Binary Search
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/bibhukrupa01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/bibhukrupa01/LeetCode/tree/master/0169-majority-element) |
+| [1122-relative-sort-array](https://github.com/bibhukrupa01/LeetCode/tree/master/1122-relative-sort-array) |
 ## Matrix
 |  |
 | ------- |
@@ -49,15 +51,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bibhukrupa01/LeetCode/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/bibhukrupa01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/bibhukrupa01/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/bibhukrupa01/LeetCode/tree/master/1122-relative-sort-array) |
 ## Quicksort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/bibhukrupa01/LeetCode/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/bibhukrupa01/LeetCode/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/bibhukrupa01/LeetCode/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/bibhukrupa01/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/bibhukrupa01/LeetCode/tree/master/1122-relative-sort-array) |
 ## String
 |  |
 | ------- |
@@ -87,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/bibhukrupa01/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/bibhukrupa01/LeetCode/tree/master/1122-relative-sort-array) |
 ## Math
 |  |
 | ------- |
