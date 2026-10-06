@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/bibhukrupa01/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/bibhukrupa01/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0766-toeplitz-matrix](https://github.com/bibhukrupa01/LeetCode/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/bibhukrupa01/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/bibhukrupa01/LeetCode/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/bibhukrupa01/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/bibhukrupa01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/bibhukrupa01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/bibhukrupa01/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/bibhukrupa01/LeetCode/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/bibhukrupa01/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/bibhukrupa01/LeetCode/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/bibhukrupa01/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/bibhukrupa01/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/bibhukrupa01/LeetCode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/bibhukrupa01/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/bibhukrupa01/LeetCode/tree/master/0344-reverse-string) |
+| [0832-flipping-an-image](https://github.com/bibhukrupa01/LeetCode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/bibhukrupa01/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/bibhukrupa01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -120,5 +123,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/bibhukrupa01/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/bibhukrupa01/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/bibhukrupa01/LeetCode/tree/master/0867-transpose-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/bibhukrupa01/LeetCode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
