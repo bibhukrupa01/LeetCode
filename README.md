@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bibhukrupa01/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/bibhukrupa01/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/bibhukrupa01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bibhukrupa01/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/bibhukrupa01/LeetCode/tree/master/0075-sort-colors) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bibhukrupa01/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/bibhukrupa01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bibhukrupa01/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/bibhukrupa01/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bibhukrupa01/LeetCode/tree/master/0048-rotate-image) |
 | [0883-projection-area-of-3d-shapes](https://github.com/bibhukrupa01/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bibhukrupa01/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Simulation
