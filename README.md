@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/bibhukrupa01/LeetCode/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bibhukrupa01/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/bibhukrupa01/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/bibhukrupa01/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/bibhukrupa01/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/bibhukrupa01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/bibhukrupa01/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/bibhukrupa01/LeetCode/tree/master/0867-transpose-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/bibhukrupa01/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/bibhukrupa01/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
