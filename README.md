@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/bibhukrupa01/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/bibhukrupa01/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/bibhukrupa01/LeetCode/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bibhukrupa01/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1122-relative-sort-array](https://github.com/bibhukrupa01/LeetCode/tree/master/1122-relative-sort-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/bibhukrupa01/LeetCode/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/bibhukrupa01/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/bibhukrupa01/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/bibhukrupa01/LeetCode/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/bibhukrupa01/LeetCode/tree/master/0832-flipping-an-image) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0883-projection-area-of-3d-shapes](https://github.com/bibhukrupa01/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/bibhukrupa01/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
